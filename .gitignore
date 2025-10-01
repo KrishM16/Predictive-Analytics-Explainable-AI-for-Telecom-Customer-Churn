@@ -1,0 +1,13 @@
+# Virtual env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+
+# Models
+*.pkl
+*.joblib
